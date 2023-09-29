@@ -1,4 +1,4 @@
-# BPMN-JS Angular integration example
+# bpmn_from_angular
 This example shows how to integrate bpmn into an Angular application.
 It uses bpmn-js and bpmn-js-properties-panel.
 
